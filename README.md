@@ -22,7 +22,7 @@ https://anatomyof.ai/- VI The Seirpinski Triangle
 https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles- Eli Pariser TED Talk
 https://contractfortheweb.org/principles/principle-5/
 https://contractfortheweb.org/principles/principle-8-build-strong-communities-that-respect-civil-discourse-and-human-dignity/
-
+-The principles 5 and 8 of the contract of the web
 
 
 
