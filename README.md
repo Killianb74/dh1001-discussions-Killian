@@ -6,11 +6,7 @@
 <body>
 
 <h1>Discussions in Digital Humanities</h1>
-<p>c Here’s a condensed 250-word version of your three discussion reflections:
-
----
-
-**Contract of the Web:**
+<p>c **Contract of the Web:**
 After reading Principles 5 and 8 and listening to Eli Pariser’s TED Talk, I found his insights on algorithmic personalization very eye-opening. Platforms like Google, Facebook, and Instagram often show users only what aligns with their existing interests, which limits exposure to diverse viewpoints and important global issues. Principles 5 and 8 emphasize transparency, data control, and responsible data collection—values that should be standard across all platforms. Clear explanations of how user data is processed and accessible control panels would ensure privacy and trust. Greater transparency would help users engage with both personal and trending information, promoting awareness of the wider world rather than reinforcing online echo chambers.
 
 **Anatomy of an AI System:**
