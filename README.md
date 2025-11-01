@@ -14,6 +14,8 @@ Before reading this article, I didn’t realize how complex and resource-intensi
 
 **The Internet’s Own Boy:**
 This film powerfully depicted Aaron Swartz’s fight for open access to knowledge and the tragic consequences of government overreach. His story revealed flaws in the justice system and highlighted the need for free, ethical access to information. Swartz’s legacy—through Reddit, JSTOR, and Aaron’s Law—continues to inspire advocacy for digital freedom, transparency, and the right to learn without limitation.
+
+
 Bibliography
 https://www.youtube.com/watch?v=9vz06QO3UkQ- The Internet's Own Boy: The Story of Aaron Swartz | full movie (2014)- moviemaniacsDE
 https://anatomyof.ai/- VI The Seirpinski Triangle
